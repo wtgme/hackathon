@@ -1,6 +1,6 @@
-# Project Repository: Cross-linking literature and electronic health records
+# Project Repository: [Cross-linking literature and electronic health records]((https://github.com/HDRUK/hackathon-projects-2025/blob/main/7.md))
 
-Welcome to [our project](https://github.com/HDRUK/hackathon-projects-2025/blob/main/7.md) repository! This document outlines the purpose of the repository and provides instructions on how to navigate the resources and contribute effectively. Below is a breakdown of the key tasks and goals for the project.
+Welcome to our project repository! 
 
 ---
 
