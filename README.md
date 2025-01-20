@@ -21,7 +21,7 @@ This repository is dedicated to organizing and streamlining our work on datasets
 
 ## How to Contribute
 
-1. **Document Writing**: Update project description or add comments as needed.  
+1. **Document Co-Writing**: Update project description or add comments as needed.  
 2. **Material Sharing**: Share any relevant references or suggestions for improvement.  
 3. **Code Contributions**: Submit pull requests for scripts or utilities that support the project.  
 
