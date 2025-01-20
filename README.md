@@ -6,7 +6,7 @@ Welcome to our project repository!
 
 ## Project Overview
 
-This repository is dedicated to organizing and streamlining our work on datasets and techniques for leveraging Large Language Models (LLMs). Our primary focus includes creating shared resources, providing accessible introductory materials, and deploying an LLM endpoint on Hugging Face for experimentation.
+In this project, we will use large language models (LLMs) to develop an open and expandable infrastructure that will be able to link the literature and electronic health records (EHRs) for different tasks. This repository is dedicated to organizing and streamlining our work on datasets and techniques for leveraging LLMs. Our primary focus includes creating shared resources, providing accessible introductory materials, and deploying an LLM endpoint on Hugging Face for experimentation.
 
 ---
 
