@@ -13,7 +13,7 @@ This repository is dedicated to organizing and streamlining our work on datasets
 ## Repository Structure
 
 - **`/docs/`**: Contains shared documents, including the planned dataset list with links and relevant references.  
-- **`/intro-material/`**: A curated list of introductory resources on datasets, techniques, and methodologies.  
+- **`/materials/`**: A curated list of introductory resources on datasets, techniques, and methodologies.  
 - **`/code/`**: Scripts and utilities for dataset processing, analysis, and LLM hosting.  
 
 
@@ -21,8 +21,8 @@ This repository is dedicated to organizing and streamlining our work on datasets
 
 ## How to Contribute
 
-1. **Shared Document**: Update the dataset list or add comments as needed.  
-2. **Introductory Material**: Share any relevant references or suggestions for improvement.  
+1. **Document**: Update project description or add comments as needed.  
+2. **Material**: Share any relevant references or suggestions for improvement.  
 3. **Code Contributions**: Submit pull requests for scripts or utilities that support the project.  
 
 ---
