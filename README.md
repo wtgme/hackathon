@@ -1,4 +1,4 @@
-# Project Repository: [Cross-linking literature and electronic health records]((https://github.com/HDRUK/hackathon-projects-2025/blob/main/7.md))
+# Project Repository: [Cross-linking literature and electronic health records](https://github.com/HDRUK/hackathon-projects-2025/blob/main/7.md)
 
 Welcome to our project repository! 
 
