@@ -18,6 +18,12 @@ In this project, we will use large language models (LLMs) to develop an open and
 
 
 ---
+## Packages
+
+- **[vLLM](https://docs.vllm.ai/en/latest/design/huggingface_integration.html )**: Deployment for LLM inference and serving.  
+- **[Openai](https://platform.openai.com/docs/api-reference/introduction)**: Inference API wrapper.  
+- **[Langchain](https://www.langchain.com/ )**: Inference pipeline development.  
+
 
 ## How to Contribute
 
@@ -27,8 +33,4 @@ In this project, we will use large language models (LLMs) to develop an open and
 
 ---
 
-## Contact & Support
 
-If you have any questions or suggestions, please open an issue in the repository or contact one of the maintainers.
-
-We look forward to collaborating with you! 🚀
